@@ -8,21 +8,11 @@
 
 Additional description about the project and its features.
 
-#Built With
+Built With
 
 - HTML
 - CSS
 - VS Code
-
-Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-Getting Started
-
-
-To get a local copy up and running follow these simple example steps.
 
 Prerequisites
 You only need a browser
@@ -40,10 +30,6 @@ Authors
  🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-Show your support
 
 Give a ⭐️ if you like this project!
 
