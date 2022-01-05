@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+
 
 > Using linters
 
@@ -8,11 +8,11 @@
 
 Additional description about the project and its features.
 
-## Built With
+#Built With
 
 - HTML
 - CSS
-- Linters
+- VS Code
 
 Live Demo
 
@@ -28,27 +28,27 @@ Prerequisites
 You only need a browser
 
 
-## Authors
+Authors
 
-👤 **Author1**
+👤 Author1
 
 - GitHub: [@githubhandle](https://github.com/iLynette)
 - Twitter: [@twitterhandle](https://twitter.com/acholah_lynette)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lynette-acholah/)
 
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+Show your support
 
 Give a ⭐️ if you like this project!
 
 
 
-## 📝 License
+ 📝 License
 
 This project is [MIT](./MIT.md) licensed.
