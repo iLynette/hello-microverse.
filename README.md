@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+**Hello-Microverse**
 
-
-> Using linters
-
-![screenshot](./app_screenshot.png)
+![screenshot](images/shot2.png)
 
 Additional description about the project and its features.
 
@@ -20,7 +18,7 @@ You only need a browser
 
 Authors
 
-👤 Author1
+👤  **Lynette Acholah**
 
 - GitHub: [@githubhandle](https://github.com/iLynette)
 - Twitter: [@twitterhandle](https://twitter.com/acholah_lynette)
