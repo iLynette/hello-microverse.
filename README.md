@@ -25,18 +25,7 @@ Getting Started
 To get a local copy up and running follow these simple example steps.
 
 Prerequisites
-You need to have your favorite browser installed
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+You only need a browser
 
 
 ## Authors
@@ -58,11 +47,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
